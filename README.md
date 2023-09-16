@@ -6,6 +6,6 @@
 🤝 Passionate about AI, data and building tools to enable developers</br>
 🌱 Always evolving, always learning.</br>
 🚀 Beyond coding: Mentorship, community building, and tech evangelism.</br>
-</br></br></br>
+</br></br>
 
 ![Mika's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaak&show_icons=true&theme=dracula&hide=contribs)
