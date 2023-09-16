@@ -9,3 +9,5 @@
 </br></br>
 
 ![Mika's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaak&show_icons=true&theme=dracula&hide=contribs)
+
+Looking to learn how to level up your elixir skills? Checkout https://learn-elixir.dev where I help speed up the journey to mastery 
